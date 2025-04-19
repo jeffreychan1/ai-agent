@@ -23,6 +23,22 @@ This project implements an AI agent system with a Streamlit-based web UI and a F
    ```bash
    pip install -r requirements.txt
    ```
+Absolutely! Here's an updated section you can add to the `README.md` under a new heading:
+
+---
+
+## Running with Ollama and Qwen2.5-7B
+
+To run the agent using the [Qwen2.5-7B](https://ollama.com/library/qwen2:7b) model locally with [Ollama](https://ollama.com):
+
+1. **Install Ollama**  
+   Follow the installation guide for your platform: [https://ollama.com/download](https://ollama.com/download)
+
+2. **Pull the Qwen2.5-7B model**  
+   Run the following command to download the model:
+   ```bash
+   ollama pull qwen2:7b
+   ```
 
 ## Database Setup
 
