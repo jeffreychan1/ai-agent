@@ -23,9 +23,6 @@ This project implements an AI agent system with a Streamlit-based web UI and a F
    ```bash
    pip install -r requirements.txt
    ```
-Absolutely! Here's an updated section you can add to the `README.md` under a new heading:
-
----
 
 ## Running with Ollama and Qwen2.5-7B
 
