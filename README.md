@@ -1,6 +1,6 @@
 # AI Agent
 
-This project implements an AI agent system with a Streamlit-based web UI, and a FastAPI-powered API. It utilizes a SQLite database for data storage and includes scripts for agent logic, web interface, and API endpoints.
+This project implements an AI agent system with a Streamlit-based web UI and a FastAPI-powered API. It utilizes a SQLite database for data storage and includes scripts for agent logic, web interface, and API endpoints.
 
 ## Features
 
@@ -49,7 +49,7 @@ This will start a local web server and open the application in your default brow
 The FastAPI application is defined in `api.py`. To run the API server:
 
 ```bash
-fastapi run api.py
+fastapi dev api.py
 ```
 
 This will start the FastAPI server with automatic reload enabled. You can access the interactive API documentation at `http://127.0.0.1:8000/docs`.
