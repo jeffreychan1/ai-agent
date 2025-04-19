@@ -70,3 +70,8 @@ This will start the FastAPI server with automatic reload enabled. You can access
 ## License
 
 This project is licensed under the MIT License.
+
+## 📚 Related Article
+
+Check out the full story behind this project on Hashnode:  
+👉 [My Own Private AI Agent](https://jeffreychan.hashnode.dev/my-own-private-ai-agent)
