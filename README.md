@@ -1,6 +1,6 @@
 # AI Agent
 
-This project implements an AI agent system with a Streamlit-based web UI and a FastAPI-powered API. It utilizes a SQLite database for data storage and includes scripts for agent logic, web interface, and API endpoints.
+This project implements an AI agent system with function calling capabilites. It utilizes a SQLite database for data storage and includes scripts for agent logic, web interface, and API endpoints.
 
 ## Features
 
