@@ -67,6 +67,14 @@ fastapi dev api.py
 
 This will start the FastAPI server with automatic reload enabled. You can access the interactive API documentation at `http://127.0.0.1:8000/docs`.
 
+## Prompt Examples
+
+"Create a sales report with these columns: staff name, product name, quantity sold, unit price, extended price."
+
+"Show me the customers, what they bought, and how much they spent."
+
+"Alice is one of our staff. Give me the names of the products that she did not sell."
+
 ## License
 
 This project is licensed under the MIT License.
